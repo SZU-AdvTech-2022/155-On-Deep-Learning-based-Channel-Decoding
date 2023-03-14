@@ -1,4 +1,4 @@
-@inproceedings{REPO-156,
+@inproceedings{REPO-155,
     author = "Gruber, Tobias and Cammerer, Sebastian and Hoydis, Jakob and Brink, Stephan ten",
     booktitle = "2017 51st Annual Conference on Information Sciences and Systems (CISS)",
     number = "",
